@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Recipe-Finder-react/static/css/main.0b9691f2.css",
+    "main.js": "/Recipe-Finder-react/static/js/main.56c13d45.js",
+    "static/js/453.ae270511.chunk.js": "/Recipe-Finder-react/static/js/453.ae270511.chunk.js",
+    "static/media/pancakes.jpg": "/Recipe-Finder-react/static/media/pancakes.4f2f8764f8a00b439e37.jpg",
+    "static/media/spaghetti.jpg": "/Recipe-Finder-react/static/media/spaghetti.c3213cd8b0c15487b5c8.jpg",
+    "static/media/istockphoto-food.jpg": "/Recipe-Finder-react/static/media/istockphoto-food.f1203449ec4f1febc512.jpg",
+    "static/media/stir-fry.jpeg": "/Recipe-Finder-react/static/media/stir-fry.644d533b656b37d35623.jpeg",
+    "static/media/salmon.jpeg": "/Recipe-Finder-react/static/media/salmon.1ecd9f91ce0f7886b8c8.jpeg",
+    "static/media/caesar-salad.jpeg": "/Recipe-Finder-react/static/media/caesar-salad.344a143bdc4d25e5a17f.jpeg",
+    "static/media/brownies.jpeg": "/Recipe-Finder-react/static/media/brownies.8630eb20c0168d71be62.jpeg",
+    "static/media/chicken-curry.jpeg": "/Recipe-Finder-react/static/media/chicken-curry.f8839a45c67ba5acefe2.jpeg",
+    "index.html": "/Recipe-Finder-react/index.html",
+    "main.0b9691f2.css.map": "/Recipe-Finder-react/static/css/main.0b9691f2.css.map",
+    "main.56c13d45.js.map": "/Recipe-Finder-react/static/js/main.56c13d45.js.map",
+    "453.ae270511.chunk.js.map": "/Recipe-Finder-react/static/js/453.ae270511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9691f2.css",
+    "static/js/main.56c13d45.js"
+  ]
+}
